@@ -1,0 +1,15 @@
+# File is managed by Puppet
+
+AcceptEnv LANG LC_*
+ChallengeResponseAuthentication no
+GSSAPIAuthentication no
+PermitRootLogin yes
+PermitRootLogin without-password  
+PrintMotd no
+Subsystem sftp /usr/libexec/openssh/sftp-server
+UseDNS no
+UsePAM yes
+X11Forwarding yes
+RSAAuthentication yes
+PubkeyAuthentication yes
+#Dit is een test

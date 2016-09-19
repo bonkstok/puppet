@@ -1,0 +1,6 @@
+[mNotice: Scope(Web_user::User[shelob]): /home/shelob[0m
+[mNotice: Scope(Web_user::User[frodo]): /home/frodo[0m
+[mNotice: Scope(Web_user::User[test_user1]): /home/test_user1[0m
+[mNotice: Scope(Web_user::User[test_user2]): /home/test_user2[0m
+[mNotice: Compiled catalog for learning.puppetlabs.vm in environment production in 0.10 seconds[0m
+[mNotice: Applied catalog in 0.29 seconds[0m
