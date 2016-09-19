@@ -1,0 +1,23 @@
+A small command list for chocolatey. Please keep adding commands:)
+
+choco new packagename # creates a package.
+
+make sure you import the right powershell script, else it will fail.
+
+get checksum:;
+choco install checksum
+checksum -f="path with file" -t={sha1,sha256}
+
+Before you can install a local package, make sure you create a choco package
+	1. Go to your package folder
+	2. choco pack 
+
+Now that you have a .nupkg file,  you can run the script.
+
+choco install <packagename> -s path to source(nupkg file) -y to accept defaults
+
+<list of options>
+-debug
+--allow-empty-checksums
+-force #force reinstall
+choco install <path>/mysql_workbench.6.3.7.nupkg

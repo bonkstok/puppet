@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>notepadplusplus</id>
+    <version>6.9.2</version> <!-- always check this! -->
+    <title>Notepad++ 6.9.2</title>
+    <authors>Notepad++ team</authors>
+    <tags>notepad 6.9.2</tags>
+    <summary> N.V.T.</summary>
+    <description>Installing notepad++</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

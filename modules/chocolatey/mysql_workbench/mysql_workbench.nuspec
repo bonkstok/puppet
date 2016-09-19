@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mysql_workbench</id>
+    <version>6.3.7</version>
+    <title>MySQL Workbench Community 6.3.7</title>
+    <authors>Oracle Corporation</authors>
+    <tags>MySQL Workbench Community 6.3.7</tags>
+    <summary>n.v.t.</summary>
+    <description>MySQL Workbench Community</description>
+<!--	<dependencies>
+      <dependency id="reduscpp2013" version="20.13" />
+    </dependencies> -->
+  </metadata>
+</package>

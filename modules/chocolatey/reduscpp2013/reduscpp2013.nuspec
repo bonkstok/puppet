@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>reduscpp2013</id>
+    <version>20.13</version>
+    <title>Visual C++ Redistributable Packages for Visual Studio 2013</title>
+    <authors>Microsoft</authors>
+    <tags>CPP 2013 redus</tags>
+    <summary>n.v.t.</summary>
+    <description>Visual C++ Redistributable Packages for Visual Studio 2013</description>
+  </metadata>
+</package>
