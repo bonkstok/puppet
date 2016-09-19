@@ -1,0 +1,9 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.198.100 master01 master01.puppet.test
+192.168.198.135 client01 client01.puppet.test
+192.168.198.136 webserver01 webserver01.puppet.teste
+192.168.198.138 winserver02 winserver02.puppet.test
+
+#test
+#lol
