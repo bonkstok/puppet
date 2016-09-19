@@ -3,7 +3,9 @@ A small command list for chocolatey. Please keep adding commands:)
 choco new packagename # creates a package.
 
 make sure you import the right powershell script, else it will fail.
-
+#list packages
+choco list
+choco list -lo #localonly
 get checksum:;
 choco install checksum
 checksum -f="path with file" -t={sha1,sha256}
